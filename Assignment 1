@@ -1,0 +1,39 @@
+1.*-expression
+   'hello'-value
+    -87.8 value
+   --expression
+   /-expression
+   +-expression
+    6-value
+
+2.String:String can be written in quotes
+  Example:"banana",'banana'
+   Variable:It is the thing in which we can store data
+             just like a container.
+
+3.List:List is used for storing multiple data items
+        in a single variable.
+  Integer:Integer can store only numeric values.
+   Float:Float can store only floating values.
+   Example:322.22,22.22,etc.
+
+4.Expression is made up of values,containers and mathematical
+  Operators(operands)
+   Examples:a=2+3 and expression are used to evaluate the values or 
+     represent the result in the screen.
+
+5.Expression is made up of values,containers and mathematical
+  Operators(operands) and the statement just like a command
+  that a python interpreter excutes like print.
+
+6.23 as execution code.
+
+7.Same
+
+8.We can't start giving variable an integer name.If we should begin with
+ a string-like alphabet name then integer.e100 or eggs is valid.
+
+9.str(),int(),float()
+
+10 Because 99 is an integer it can'tbe concatenated with string
+   if we have to concatenate if we need to do type casting.
